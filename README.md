@@ -340,4 +340,75 @@ To master C#, you can rely on official documentation, open-access books, and ava
 3. **Dive Deeper with Books**: Free books like *"Fundamentals of Computer Programming with C#"* offer extensive coverage.
 4. **Practice Daily**: Platforms like HackerRank, CodeWars, and DotNetFiddle for hands-on coding.
 5. **Engage in Community Discussions**: Platforms like Stack Overflow and Reddit will help solve doubts.
+---
+---
+Here’s a detailed **day, week, and month roadmap** to learn C# from scratch to advanced level. This roadmap assumes a **2-hour daily commitment** and can be adjusted based on your pace and available time.
 
+---
+
+## **Month 1: Basics and Core Concepts**
+### **Week 1: Introduction to C# and Basics**
+**Goals:** Learn syntax, basic structure, and foundational concepts.
+
+| **Day** | **Topics**                              | **Activities**                                                                                         | **Resources**                                                                                      |
+|---------|----------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1       | Introduction to C#                    | Understand .NET framework, C# overview, and setup Visual Studio.                                      | [Microsoft Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)                                |
+| 2       | First Program                         | Write a "Hello World" program, understand class structure and Main method.                            | [W3Schools C# Tutorial](https://www.w3schools.com/cs/)                                            |
+| 3       | Data Types and Variables              | Learn types (int, string, bool), variable declaration, and initialization.                            | [TutorialsPoint C#](https://www.tutorialspoint.com/csharp/)                                       |
+| 4       | Operators                             | Study arithmetic, comparison, and logical operators.                                                  | [GeeksforGeeks C# Operators](https://www.geeksforgeeks.org/c-sharp-operators/)                   |
+| 5       | Input/Output                          | Explore `Console.Write`, `Console.ReadLine`, and formatting outputs.                                  | [FreeCodeCamp C# Guide](https://www.freecodecamp.org/news/tag/c-sharp/)                           |
+| 6       | Conditional Statements                | Learn `if`, `else`, and `switch` statements.                                                          | [Microsoft Docs on Conditional Statements](https://learn.microsoft.com/en-us/dotnet/csharp/)     |
+| 7       | Loops                                 | Practice `for`, `while`, and `do-while` loops with examples.                                          | [W3Schools](https://www.w3schools.com/cs/cs_for_loop.php)                                         |
+
+---
+
+### **Week 2: Object-Oriented Programming (OOP) - Part 1**
+**Goals:** Understand classes, objects, constructors, and methods.
+
+| **Day** | **Topics**                              | **Activities**                                                                                         | **Resources**                                                                                      |
+|---------|----------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 8       | Classes and Objects                   | Learn how to create classes and objects.                                                              | [TutorialsPoint Classes](https://www.tutorialspoint.com/csharp/csharp_classes.htm)                |
+| 9       | Methods                               | Define and call methods; understand return types.                                                     | [GeeksforGeeks C# Methods](https://www.geeksforgeeks.org/c-sharp-methods/)                        |
+| 10      | Constructors                          | Explore constructors, parameterized constructors, and object initialization.                          | [Microsoft Docs on Constructors](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/) |
+| 11      | Encapsulation                         | Learn access modifiers (`private`, `public`, `protected`) and properties.                             | [GeeksforGeeks Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-c-sharp/)            |
+| 12      | Inheritance                           | Implement base and derived classes, and `override` methods.                                           | [W3Schools C# Inheritance](https://www.w3schools.com/cs/cs_inheritance.php)                       |
+| 13      | Polymorphism                          | Learn about method overloading and overriding.                                                        | [FreeCodeCamp Polymorphism](https://www.freecodecamp.org/news/tag/c-sharp/)                       |
+| 14      | Practice and Review                   | Solve OOP challenges like creating a simple library system.                                           | [HackerRank OOP Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-csharp)       |
+
+---
+
+### **Week 3: Intermediate C# Concepts**
+**Goals:** Understand advanced OOP concepts, exception handling, and collections.
+
+| **Day** | **Topics**                              | **Activities**                                                                                         | **Resources**                                                                                      |
+|---------|----------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 15      | Abstraction and Interfaces            | Learn abstract classes, interfaces, and their implementations.                                        | [TutorialsPoint Abstraction](https://www.tutorialspoint.com/csharp/csharp_abstract.htm)           |
+| 16      | Exception Handling                    | Handle exceptions using `try-catch-finally` and custom exceptions.                                    | [Microsoft Docs Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/)                    |
+| 17      | Collections                           | Study arrays, lists, dictionaries, and queues.                                                        | [GeeksforGeeks Collections](https://www.geeksforgeeks.org/c-sharp-collections/)                  |
+| 18      | Generics                              | Explore generic methods, classes, and interfaces.                                                     | [W3Schools Generics](https://www.w3schools.com/cs/cs_generics.php)                                |
+| 19      | Delegates and Events                 | Learn about delegates, multicast delegates, and events.                                               | [Microsoft Docs Delegates](https://learn.microsoft.com/en-us/dotnet/csharp/)                     |
+| 20      | Practice Day                          | Implement a banking application using collections and exception handling.                             | [DotNetFiddle](https://dotnetfiddle.net/)                                                         |
+| 21      | Review and Projects                  | Revise Week 3 topics with small real-world projects.                                                  | [C# Corner](https://www.c-sharpcorner.com/)                                                       |
+
+---
+
+### **Week 4: Advanced Topics**
+**Goals:** Explore LINQ, async programming, and file handling.
+
+| **Day** | **Topics**                              | **Activities**                                                                                         | **Resources**                                                                                      |
+|---------|----------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 22      | File Handling                         | Work with `System.IO` to read and write files.                                                        | [GeeksforGeeks File Handling](https://www.geeksforgeeks.org/file-handling-in-csharp/)             |
+| 23      | LINQ Basics                           | Learn LINQ queries and their usage with collections.                                                  | [Microsoft LINQ Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) |
+| 24      | LINQ Advanced                         | Explore `GroupBy`, `Join`, and lambda expressions in LINQ.                                             | [TutorialsPoint LINQ](https://www.tutorialspoint.com/linq/index.htm)                              |
+| 25      | Async and Await                       | Learn asynchronous programming and `Task`-based operations.                                           | [Microsoft Async Guide](https://learn.microsoft.com/en-us/dotnet/csharp/)                         |
+| 26      | Reflection and Dynamic Types          | Understand reflection for metadata and dynamic object usage.                                          | [FreeCodeCamp Reflection](https://www.freecodecamp.org/news/tag/c-sharp/)                         |
+| 27      | Practice Day                          | Create a LINQ-based query system and practice file I/O operations.                                    | [DotNetFiddle](https://dotnetfiddle.net/)                                                         |
+| 28      | Mini Project                          | Develop a console-based inventory management system.                                                  | Combine all learned concepts.                                                                     |
+
+---
+
+## **Month 2: Frameworks and Specialized Areas**
+- **Weeks 1–2**: Learn about ASP.NET Core (building APIs and web apps).
+- **Weeks 3–4**: Focus on game development (Unity) or mobile apps (Xamarin).
+
+#ALL THE BEST💻
